@@ -1,3 +1,6 @@
+Caso queria vizualizar ele está hospeado no git, use Npm install para poder baixar as dependências.
+
+
 # Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
